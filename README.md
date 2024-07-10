@@ -8,6 +8,9 @@
 - **CRUD (Create, Read, Update, Delete)** untuk data dosen dan mata kuliah.
 - **Integrasi dengan database real-time Supabase** untuk menyimpan dan mengelola data dosen dan mata kuliah.
 
+## Demo Aplikasi
+https://github.com/volumeee/AMDAD-Aplikasi-Manajemen-Data-Dosen/assets/57589007/c6389d0c-2b89-4195-b9b8-a9b299e06f6e
+
 ## Instalasi
 Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan aplikasi di lingkungan lokal Anda.
 
